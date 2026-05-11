@@ -1,0 +1,12 @@
+{
+  "kind": "summarization_config",
+  "extractive": {
+    "method": "tfidf_sentence_scoring",
+    "max_sentences": 3
+  },
+  "abstractive": {
+    "model_name": "sshleifer/distilbart-cnn-12-6",
+    "max_length": 120,
+    "min_length": 20
+  }
+}
