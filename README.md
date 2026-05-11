@@ -1,10 +1,6 @@
 # Same-Day E-Commerce Capstone — Product Reviews Track
 
-Rename this folder to `your-group-capstone` before submitting if your rubric requires that exact directory name.
 
-## Team
-
-Replace with your names: **Team Member 1**, **Team Member 2**, …
 
 ## Problem
 
